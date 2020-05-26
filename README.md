@@ -1,3 +1,3 @@
 # LPLClassify
-Classify players in LPL with .  
+Classify players in LPL with KMeans.  
 Just for fun!
